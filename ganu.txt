@@ -1,3 +1,15 @@
-const = "sdfghicxjilcjswefiwejfw"
-radyhe="khfberkufherfuerhfgerlferife;flj"
+// secrets.example.js
+// WARNING: TEST FILE ONLY — contains fake keys for scanner testing.
 
+const STRIPE_API_KEY = "sk_test_51HExAMPLEf4kE-TEST-KEY-1234567890";
+const AWS_ACCESS_KEY_ID = "AKIAFAKEEXAMPLEKEY";
+const AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYFAKEKEY";
+const GOOGLE_OAUTH_CLIENT_SECRET = "AIzaFAKE-CLIENT-SECRET-EXAMPLE";
+
+module.exports = {
+  stripeKey: STRIPE_API_KEY,
+  aws: {
+    id: AWS_ACCESS_KEY_ID,
+    secret: AWS_SECRET_ACCESS_KEY
+  },
+  googleSecret: GOOGLE_OAUTH_
