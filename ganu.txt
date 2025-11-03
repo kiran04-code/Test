@@ -1,19 +1,1 @@
-// Generic API key (simple)
-API_KEY_DEMO = "demo_00000000000000000000000000000000"
 
-// Longer random-looking key
-API_KEY_LONG = "rk_test_5f4d3c2b1a0e9f8d7c6b5a4e3d2c1b0a"
-
-// HMAC-style secret (use when you expect binary/hex)
-HMAC_SECRET = "hmac_dummy_e3b0c44298fc1c149afbf4c8996fb924"
-
-// JWT secret (for local dev only)
-JWT_SECRET_DEV = "jwt_dev_secret_example_0123456789abcdef"
-
-// OAuth-style client id / secret (dummy)
-OAUTH_CLIENT_ID = "client_abcdefgh123456"
-OAUTH_CLIENT_SECRET = "secret_xyZ_987654321"
-
-// Stripe-like test keys (obviously fake)
-STRIPE_PUBLISHABLE = "pk_test_xxxxxxxxxxxxxxxxxxxxx"
-STRIPE_SECRET = "sk_test_xxxxxxxxxxxxxxxxxxxxx"
