@@ -1,11 +1,3 @@
 
-  DUMMY_API_KEYS =    "ghp_test1234567890abcdef", 
-  API_KEYS =    "ghp_terethyrthrhfrghfgjhghjgyhtjst1234567890abcdef", 
-
-AWS_ACCESS_KEY_ID=AKIA_TESTKEY12345
-AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYTESTKEY
-
-
-
 
 
