@@ -1,1 +1,5 @@
+// Example dummy API keys for testing
+  DUMMY_API_KEYS =    "ghp_test1234567890abcdef", 
+  API_KEYS =    "ghp_terethyrthrhfrghfgjhghjgyhtjst1234567890abcdef", 
+
 
